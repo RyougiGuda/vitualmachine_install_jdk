@@ -4,4 +4,6 @@
 删除文件 rm xxx.txt
 删除文件夹 rm -r xxx
 为文件夹降低访问权限 chmod 777 xxx
-2.
+2.切换到root用户
+sudo su root
+
